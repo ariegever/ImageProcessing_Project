@@ -1,0 +1,112 @@
+{
+  "0": {
+    "class": "Built-up",
+    "color": "#E60000",
+    "values_normalize": 0,
+    "original_classes": [
+      {
+        "class": "Built up and road surface",
+        "color": "#E60000",
+        "values": 11,
+        "values_normalize": 0
+      }
+    ]
+  },
+  "1": {
+    "class": "Disturbed",
+    "color": "#B22222",
+    "values_normalize": 1,
+    "original_classes": [
+      {
+        "class": "Transportation disturbed",
+        "color": "#B22222",
+        "values": 21,
+        "values_normalize": 1
+      },
+      {
+        "class": "Quarries and tailings",
+        "color": "#A9A9A9",
+        "values": 22,
+        "values_normalize": 2
+      },
+      {
+        "class": "Other disturbed",
+        "color": "#D2B48C",
+        "values": 23,
+        "values_normalize": 3
+      },
+      {
+        "class": "Solar farms",
+        "color": "#2F4F4F",
+        "values": 24,
+        "values_normalize": 4
+      }
+    ]
+  },
+  "2": {
+    "class": "Natural and wooded",
+    "color": "#006400",
+    "values_normalize": 2,
+    "original_classes": [
+      {
+        "class": "Natural",
+        "color": "#006400",
+        "values": 31,
+        "values_normalize": 5
+      },
+      {
+        "class": "Wooded",
+        "color": "#228B22",
+        "values": 32,
+        "values_normalize": 6
+      }
+    ]
+  },
+  "3": {
+    "class": "Agriculture",
+    "color": "#ADFF2F",
+    "values_normalize": 3,
+    "original_classes": [
+      {
+        "class": "Cropland",
+        "color": "#ADFF2F",
+        "values": 41,
+        "values_normalize": 7
+      },
+      {
+        "class": "Plantations and orchards",
+        "color": "#7FFF00",
+        "values": 42,
+        "values_normalize": 8
+      },
+      {
+        "class": "Agricultural buildings",
+        "color": "#FFA500",
+        "values": 43,
+        "values_normalize": 9
+      }
+    ]
+  },
+  "4": {
+    "class": "Water",
+    "color": "#0000FF",
+    "values_normalize": 4,
+    "original_classes": [
+      {
+        "class": "Natural water surface",
+        "color": "#0000FF",
+        "values": 51,
+        "values_normalize": 10
+      },
+      {
+        "class": "Artificial water surface",
+        "color": "#87CEEB",
+        "values": 52,
+        "values_normalize": 11
+      }
+    ]
+  }
+}
+
+
+
